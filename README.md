@@ -22,4 +22,4 @@ The dataset has been collected from kaggle dataset.
 
 ##To run this app used command:
 
-   python -m streamlit run app.py
+    python -m streamlit run app.py

@@ -20,6 +20,6 @@ The dataset has been collected from kaggle dataset.
 3. Model Evaluation: Models are evaluated using appropriate metrics such as accuracy.
 4. Results Analysis: The project provides insights into the reliability and uncertainty of predicted outcomes, aiding stakeholders in making informed decisions.
 
-##To run this app used command:
+## To run this app used command:
 
     python -m streamlit run app.py
